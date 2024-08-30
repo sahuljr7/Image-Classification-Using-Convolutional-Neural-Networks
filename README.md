@@ -50,21 +50,6 @@ The following two figure are outputs of the web programming, FLASK.
 </p>
 
 <a name="HowtoRun"></a>
-## 4. How to Run
 
-
-1. Fork this repository.
- ```console
-$ git clone https://github.com/MelihGulum/CIFAR-10-CNN-FLASK-Deployment.git
-
-```
-
-2. Load the dependencies of the project
-
-**NOTE:** This dependencies not including the Deep Learning part. Colab meet all dependencies (such as tensorflow).
-
- ```console
-pip install -r requirements.txt
-```
 
 3. Now you can run app.py. But if you want you can run .ipynb and you can build your own model. It is up to you. 
